@@ -1,8 +1,8 @@
-# JobTalk - AI Resume Screening Tool
+# ShortList - AI Resume Screening Tool
 
 JobTalk is an intelligent resume screening application that uses **Groq AI** (Llama 3) to analyze resumes against job descriptions. It features a minimal, "vibey" light-themed UI with interactive 3D elements and a powerful RAG (Retrieval-Augmented Generation) backend for chatting with candidate profiles.
 
-![JobTalk UI](assets/preview.png)
+![ShortList](assets/preview.png)
 
 ## Features
 
@@ -48,7 +48,7 @@ JobTalk is an intelligent resume screening application that uses **Groq AI** (Ll
 ## Project Structure
 
 ```
-JobTalk/
+ShortList/
 ├── client/                 # React Frontend
 │   ├── src/
 │   │   ├── components/     # UI Components (Upload, Dashboard, Chat, 3D Background)
