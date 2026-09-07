@@ -1,9 +1,8 @@
 # ShortList - AI Resume Screening Tool
 
-JobTalk is an intelligent resume screening application that uses **Groq AI** (Llama 3) to analyze resumes against job descriptions. It features a minimal, "vibey" light-themed UI with interactive 3D elements and a powerful RAG (Retrieval-Augmented Generation) backend for chatting with candidate profiles.
+ShortList is an intelligent resume screening application that uses **Groq AI** (Llama 3) to analyze resumes against job descriptions. Backed by a powerful RAG (Retrieval-Augmented Generation) backend for chatting with candidate profiles.
 
-![ShortList](<img width="1919" height="912" alt="Screenshot 2026-09-04 151713" src="https://github.com/user-attachments/assets/f6007c3e-decb-416d-9cbf-82c6cf8fa4fc" />
-)
+<img width="1919" height="912" alt="Screenshot 2026-09-04 151713" src="https://github.com/user-attachments/assets/12924728-5f1e-4a61-bf50-db9ba63dd25f" />
 
 ## Features
 
